@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+#search-bar-div{ 
+    position: fixed;
+    right: 0.01%; 
+    width: 100%;
+}
+#form{
+    opacity: 0.2;
+}
+#form:hover{
+    opacity: 1;
+}
+.search-size{
+    max-width: 50%;
+    position: relative;
+    left: 25%;
+}
+a:link{
+    color:black; 
+    background-color:transparent; 
+    text-decoration:none
+}
+a:hover{
+   color:darkblue; 
+    background-color:transparent; 
+    text-decoration:none 
+}
